@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+*{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+.heading1{
+    font-family: "Roboto Mono", monospace;
+    font-weight: 500;
+    background-color: rgb(41, 40, 40);
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+}
+.heading2{
+    transform: rotate(-30deg);
+    color: rgb(141, 140, 140);
+    text-align: center;
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+}
+.heading3{
+    font-family: "Roboto Mono", monospace;
+    font-weight: 500;
+    background-color: rgb(41, 40, 40);
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+}
+.p1{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: coral;
+}
+.p2{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: cornflowerblue;
+}
+.p3{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: peachpuff;
+}
+.p4{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: orangered;
+}
+.p5{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: lightgreen;
+}
+.p6{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: skyblue;
+}
